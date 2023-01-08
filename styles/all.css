@@ -10,7 +10,7 @@ section{
 /* top section */
 .banner{
     background: #FFF8F3;
-    background-image: url('images/banner/banner3.png');
+    background-image: url('./images/banner/banner3.png');
     background-repeat: no-repeat;
     width: 1600px;
     height: 808px;
@@ -94,7 +94,7 @@ section{
 /* gradient effect */
 
 .grad{
-    background-image: url('images/watch.png');
+    background-image: url('./images/watch.png');
     background-repeat: no-repeat;
    border-radius: 8px;
    margin-left: 150px; 
